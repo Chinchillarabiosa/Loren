@@ -1,0 +1,52 @@
+body{
+header{
+    background: red;
+    height: 200px;
+    text-align: center;
+    width: 100%;
+    float: inline-start;
+}
+nav{
+    background: rgb(235, 134, 235);
+    height: 200px;
+    text-align: center;
+    line-height:80px ;
+    float: left;
+    width: 100%;
+}
+#uno{
+    background: green;
+     height: 200px;
+    width: 50%;
+    text-align: center;
+    float: left;
+    line-height: 200px;
+}
+#dos{ 
+    background: yellow;
+    height: 200px;
+    width: 50%;
+    color: black;
+    text-align: center;
+    float: left;
+    line-height: 200px;
+}
+#tres{  
+    background-color: orange;
+    height: 200px;
+    color: black;
+    width: 100%;
+    float: left;
+    line-height: 200px;
+    text-align: center;
+}
+footer{
+    background: blue;
+    height: 200px;
+    color: black;
+    text-align: center;
+    float: inline-end;
+    width: 100%;
+    line-height: 200px;
+}
+}
